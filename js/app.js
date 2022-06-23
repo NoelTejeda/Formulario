@@ -31,3 +31,7 @@ buttonlimpiarDat.addEventListener('click', function () {
     inputCorreo.value = '';
 
 })
+
+let nombre = 'noel';
+let apellido = 'tejeda';
+console.log('mi nombre es ' + '' + nombre + '' + apellido)
